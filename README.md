@@ -46,8 +46,8 @@ The project is structured into modular functions for better readability and logi
    ```bash
    ./calculator
 
-  **Usage Example**
-When you run the program, the interface will look like this:
+  ## Usage Example
+**When you run the program, the interface will look like this:**
 ===== SIMPLE CALCULATOR =====
 1. Addition
 2. Subtraction
@@ -59,5 +59,5 @@ Enter first number: 10
 Enter second number: 5
 Result = 15.00
 
-**📜 License**
+## 📜 License
 This project is open-source and available under the MIT License.
